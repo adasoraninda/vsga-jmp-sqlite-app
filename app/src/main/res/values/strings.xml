@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi SQLite</string>
+    <string name="hint_input_name">Input Nama</string>
+    <string name="hint_input_address">Input Alamat</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_edit_data">Edit Data</string>
+    <string name="title_add_data">Add Data</string>
+    <string name="error_mode_not_found">Mode not found</string>
+    <string name="alert_empty_name_address">Please fill name and address</string>
+    <string name="error_parse_id">Error parse id</string>
+
+    <string-array name="action_dialog">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>
